@@ -7,13 +7,7 @@ class MyWidget(QtWidgets.QWidget):
         super().__init__()
 
         self.hello = [
-            "Hallo Nikita",
-            "Hello Orel",
-            "Hello Kira",
-            "Hello Einat",
-            "Hello Tomer",
-            "Hello Yuval",
-            "Hello Noa",
+            "Hello Jeremy"
         ]
 
         self.button = QtWidgets.QPushButton("Click me!")
