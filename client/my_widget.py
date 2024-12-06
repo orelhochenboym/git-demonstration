@@ -8,6 +8,7 @@ class MyWidget(QtWidgets.QWidget):
 
         self.hello = [
             "Hello Jeremy"
+            ,"Hello Nikita"
         ]
 
         self.button = QtWidgets.QPushButton("Click me!")
